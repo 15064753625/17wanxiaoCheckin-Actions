@@ -92,7 +92,7 @@
    
 
    ![](https://cdn.jsdelivr.net/gh/ReaJason/17wanxiaoCheckin-Actions/Pictures/end_modify.png)
-
+     
    
 
 6. 查看 `Actions` 运行情况，以及微信推送情况（检查json 字段中的 areaStr 是否为自己所在地址，如果不在，请一定要修改代码，因为打卡的地址不对可不行；如果 Message 有值为 None，请一定要修改代码，因为该值无法自动填写），**至此每日六点多将会自行打卡**
